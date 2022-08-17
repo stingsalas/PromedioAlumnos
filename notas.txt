@@ -1,4 +1,4 @@
-El pepe
+Notas de alumnos
 Codigo: 005 | Nombre :Diego | Curso :Matematica | Nota 1: 15| Nota 2: 14 | Nota 3: 17 | Promedio: 15.333333333333334 | 
 Codigo: 002 | Nombre :Matematica | Curso :Matematica | Nota 1: 14| Nota 2: 15 | Nota 3: 18 | Promedio: 15.666666666666666 | 
 Codigo: 004 | Nombre :Diego | Curso :Matematica | Nota 1: 15| Nota 2: 17 | Nota 3: 20 | Promedio: 17.333333333333332 | 
